@@ -8,6 +8,8 @@ The script simply prints some debug output with an inline image, some artifacts,
 
 See the full [Getting Started Guide](https://buildkite.com/docs/guides/getting-started) for step-by-step instructions on how to get this running, or simply click the following link to add this project to Buildkite:
 
+Test
+
 ## License
 
 See [License.md](License.md) (MIT)
